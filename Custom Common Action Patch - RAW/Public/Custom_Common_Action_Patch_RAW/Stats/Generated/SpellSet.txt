@@ -1,0 +1,23 @@
+new spellset "CommonPlayerActions"
+add spell "Projectile_Jump"
+add spell "Target_Dip"
+add spell "Shout_Hide"
+// add spell "Target_Shove"
+add spell "Throw_Throw"
+add spell "Throw_ImprovisedWeapon"
+add spell "Shout_Dash"
+add spell "Target_Help"
+add spell "Shout_Disengage"
+// Custom:
+add spell "Goon_Swap_Places"
+add spell "GR_Shout_Ready"
+add spell "Shout_Hurry"
+add spell "Target_Grapple"
+// RAW:
+add spell "RAW_Target_Shove_Player"
+add spell "RAW_Shout_Dodge"
+add spell "Target_Distract"
+add spell "RAW_Target_UnarmedAttack"
+// Custom (not RAW):
+// add spell "Target_UnarmedAttack"
+// add spell "Shout_Dodge"
